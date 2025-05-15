@@ -18,9 +18,12 @@ export default function GithubProfileCard({prof}) {
         <div className="row">
           <div className="main-content-profile">
             <div className="blog-header">
-              <p className="subTitle blog-subtitle">{contactInfo.subtitle}</p>
+              <p className="subTitle blog-subtitle"></p>
             </div>
-            <h2 className="bio-text">"{emoji(String(prof.bio))}"</h2>
+            <h2 className="bio-text">
+              {" "}
+              Full Stack Developer | Web3 Developer | Machine Learning Engineer
+            </h2>
             {prof.location !== null && (
               <div className="location-div">
                 <span className="desc-prof">
