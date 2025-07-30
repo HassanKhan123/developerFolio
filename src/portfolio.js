@@ -258,11 +258,16 @@ const bigProjects = {
       footerLink: []
     },
     {
-      image: require("./assets/images/text.jpg"),
-      projectName: "Disaster Tweet Detection",
+      image: require("./assets/images/resume-analyzer.png"),
+      projectName: "AI Resume Analyzer",
       projectDesc:
-        "Trained a text classification model to detect whether tweets relate to real disasters using NLP and scikit-learn.",
-      footerLink: []
+        "An AI-powered resume analyzer that gives you instant ATS scores, smart feedback, and optimization tips based on your target job.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://ai-resume-analyzer-xi-khaki.vercel.app"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
