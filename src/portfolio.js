@@ -251,11 +251,16 @@ const bigProjects = {
       footerLink: []
     },
     {
-      image: require("./assets/images/skimlit.png"),
-      projectName: "SkimLit",
+      image: require("./assets/images/storeit.png"),
+      projectName: "StoreIt",
       projectDesc:
-        "Built an NLP model to read medical abstracts and label sections like Objective, Methods, Results, and Conclusion using TensorFlow and NLP techniques.",
-      footerLink: []
+        "Storage and File Sharing Platform using Next.js, TailwindCSS and Appwrite.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://store-it-rust.vercel.app/"
+        }
+      ]
     },
     {
       image: require("./assets/images/resume-analyzer.png"),
