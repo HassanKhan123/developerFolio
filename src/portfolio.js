@@ -244,11 +244,16 @@ const bigProjects = {
   subtitle: "SOME PROJECTS THAT I HAVE WORKED ON",
   projects: [
     {
-      image: require("./assets/images/fv.png"),
-      projectName: "Food Vision",
+      image: require("./assets/images/prepwise.png"),
+      projectName: "PrepWise",
       projectDesc:
-        "Built a deep learning model using transfer learning (EfficientNet/ResNet) to classify food images from the Food101 dataset.",
-      footerLink: []
+        "A job interview preparation platform powered by Vapi AI Voice agents",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://mock-interview-platform-gilt.vercel.app/"
+        }
+      ]
     },
     {
       image: require("./assets/images/storeit.png"),
