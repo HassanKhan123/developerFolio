@@ -268,14 +268,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/resume-analyzer.png"),
-      projectName: "AI Resume Analyzer",
-      projectDesc:
-        "An AI-powered resume analyzer that gives you instant ATS scores, smart feedback, and optimization tips based on your target job.",
+      image: require("./assets/images/snapcast.png"),
+      projectName: "SnapCast",
+      projectDesc: "Full Stack Screen Recording & Video Sharing Platform",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://ai-resume-analyzer-xi-khaki.vercel.app"
+          url: "https://loom-clone-lv3y.vercel.app/"
         }
       ]
     }
