@@ -244,18 +244,6 @@ const bigProjects = {
   subtitle: "SOME PROJECTS THAT I HAVE WORKED ON",
   projects: [
     {
-      image: require("./assets/images/prepwise.png"),
-      projectName: "PrepWise",
-      projectDesc:
-        "A job interview preparation platform powered by Vapi AI Voice agents",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://mock-interview-platform-gilt.vercel.app/"
-        }
-      ]
-    },
-    {
       image: require("./assets/images/storeit.png"),
       projectName: "StoreIt",
       projectDesc:
@@ -268,13 +256,14 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/snapcast.png"),
-      projectName: "SnapCast",
-      projectDesc: "Full Stack Screen Recording & Video Sharing Platform",
+      image: require("./assets/images/signalist.png"),
+      projectName: "Signalist",
+      projectDesc:
+        "Track real-time stock prices, get personalized alerts and explore detailed company insights.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://loom-clone-lv3y.vercel.app/"
+          url: "https://stocks-app-sage.vercel.app/"
         }
       ]
     }
