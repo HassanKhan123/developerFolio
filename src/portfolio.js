@@ -244,6 +244,20 @@ const bigProjects = {
   subtitle: "SOME PROJECTS THAT I HAVE WORKED ON",
   projects: [
     {
+      image: require("./assets/images/gsap.png"),
+      projectName: "GSAP Cocktail Website",
+      projectDesc: `
+       
+A modern cocktail website built with React and TailwindCSS, featuring smooth GSAP animations.
+       `,
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://landing-page-gsap-theta.vercel.app/"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/storeit.png"),
       projectName: "StoreIt",
       projectDesc:
