@@ -280,6 +280,17 @@ A modern cocktail website built with React and TailwindCSS, featuring smooth GSA
           url: "https://stocks-app-sage.vercel.app/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/converso.png"),
+      projectName: "Converso",
+      projectDesc: "LMS with Next.js, Supabase & Payments",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://saas-app-sepia.vercel.app/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
