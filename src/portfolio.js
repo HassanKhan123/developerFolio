@@ -258,6 +258,20 @@ A modern cocktail website built with React and TailwindCSS, featuring smooth GSA
       ]
     },
     {
+      image: require("./assets/images/macbook.png"),
+      projectName: "Macbook Landing Page",
+      projectDesc: `
+       
+Apple-style website built with React, Three.js, GSAP, and TailwindCSS. 
+       `,
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://macbook-landing-page-mu.vercel.app/"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/storeit.png"),
       projectName: "StoreIt",
       projectDesc:
