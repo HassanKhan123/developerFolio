@@ -191,6 +191,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Working Student - Full Stack Developer",
+      company: "PvFritz UG",
+      companylogo: require("./assets/images/pvfritz.png"),
+      date: "November 2025 – Present",
+      desc: "Working as a Full Stack Engineer (Working Student) focusing on UI development and feature integration in existing applications.",
+      descBullets: [
+        "Developed and enhanced user interfaces for existing web applications using modern frontend technologies",
+        "Collaborated with backend and AI developers to integrate new features and optimize application performance",
+        "Contributed to full-stack development by implementing, testing, and refining interactive UI components"
+      ]
+    },
+    {
       role: "Full Stack Developer",
       company: "Drox Labs",
       companylogo: require("./assets/images/drox.jpeg"),
