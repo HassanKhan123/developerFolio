@@ -194,7 +194,7 @@ const workExperiences = {
       role: "Working Student - Full Stack Developer",
       company: "PvFritz UG",
       companylogo: require("./assets/images/pvfritz.png"),
-      date: "November 2025 – Present",
+      date: "November 2025 – January 2026",
       desc: "Working as a Full Stack Engineer (Working Student) focusing on UI development and feature integration in existing applications.",
       descBullets: [
         "Developed and enhanced user interfaces for existing web applications using modern frontend technologies",
