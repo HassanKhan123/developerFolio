@@ -192,6 +192,18 @@ const workExperiences = {
   experience: [
     {
       role: "Working Student - Full Stack Developer",
+      company: "Helden im Handwerk",
+      companylogo: require("./assets/images/helden.png"),
+      date: "February 2026 – Present",
+      desc: "Working as a Full Stack Engineer (Working Student) building scalable backend APIs, integrating modern frontend features, and supporting automation and cloud-based deployments.",
+      descBullets: [
+        "Built scalable, type-safe backend APIs with Node.js, TypeScript, and PostgreSQL.",
+        "Developed full-stack features using React (TypeScript, Vite) integrated with backend services.",
+        "Automated workflows and managed deployments using n8n, Docker, and AWS (S3, EC2)."
+      ]
+    },
+    {
+      role: "Working Student - Full Stack Developer",
       company: "PvFritz UG",
       companylogo: require("./assets/images/pvfritz.png"),
       date: "November 2025 – January 2026",
